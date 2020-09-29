@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  font-family: "Work Sans", sans-serif;
+  text-align: center;
+}
+
+header {
+  background-color: #393e46;
+  padding-bottom: 7%;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* Navbar */
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.3rem;
+}
+
+.navbar-brand {
+  font-size: 3.5rem;
+  font-weight: 600;
+}
+.heading-title {
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding: 6% 0 4%;
+  font-weight: 700;
+}
+
+/* Section */
+
+section {
+  background-color: #00adb5;
+}
+
+#about-title {
+  font-size: 3rem;
+  color: white;
+  font-weight: 500;
+}
+
+.about-text {
+  text-align: left;
+  line-height: 1.5;
+  color: white;
+  padding: 70px;
+  font-size: 1.5rem;
+}
+
+.text-section {
+  padding: 1% 1%;
+}
+
+.image-section {
+  padding: 10%;
+  color: #393e46;
+}
+
+.fa-code:hover {
+  color: #fff;
+}
+
+/* Contact */
+
+#contact {
+  background-color: #222831;
+}
+
+#contact-title {
+  font-size: 3rem;
+  color: white;
+  font-weight: 500;
+}
+
+.contact-section {
+  padding: 7%;
+}
+
+.contact-icon {
+  padding: -30px;
+  color: white;
+}
+
+.contact-icon:hover {
+  color: #00adb5;
+}
+
+/* Footer */
+
+#footer p {
+  padding-top: 1%;
+  font-size: 0.7rem;
+}
+
+.footer-icon {
+  padding: 0% 1%;
+}
